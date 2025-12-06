@@ -1,4 +1,4 @@
 # Rustacean
 
-Learning Rust to get of my rustyness.
+Learning Rust to get off my Rustyness from [here](https://rust-book.cs.brown.edu/).
 
